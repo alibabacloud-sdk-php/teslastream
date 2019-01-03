@@ -9,9 +9,9 @@ use AlibabaCloud\VersionResolverTrait;
  *
  * @package   AlibabaCloud\TeslaStream
  *
- * @method V20180115\TeslaStreamApiResolver v20180115()
+ * @method static V20180115\TeslaStreamApiResolver v20180115()
  */
-class TeslaStream
+class TeslaStreamVersion
 {
     use VersionResolverTrait;
 }
