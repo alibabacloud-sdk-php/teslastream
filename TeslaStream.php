@@ -5,8 +5,8 @@ namespace AlibabaCloud\TeslaStream;
 use AlibabaCloud\Client\Resolver\VersionResolver;
 
 /**
- * @deprecated
+ * @method static V20180115\TeslaStreamApiResolver v20180115()
  */
-class TeslaStreamVersion extends VersionResolver
+class TeslaStream extends VersionResolver
 {
 }
